@@ -1,6 +1,6 @@
 # Cupid Engineered LLM Router
 
-A production-ready TypeScript/Node.js system that routes each IDE coding task to the optimal LLM — classifying the task, scoring every candidate model on quality/cost/latency/risk, and rewriting the prompt to reduce token spend.
+A production-ready TypeScript/Node.js system that routes each coding task to the optimal LLM by classifying the task, scoring every candidate model on quality/cost/latency/risk, and rewriting the prompt to reduce token spend.
 
 ## Table of Contents
 
